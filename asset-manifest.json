@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e3b4138.chunk.css",
+    "main.js": "/static/js/main.88dd3b76.chunk.js",
+    "main.js.map": "/static/js/main.88dd3b76.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0889474a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0889474a.js.map",
+    "static/css/2.91890665.chunk.css": "/static/css/2.91890665.chunk.css",
+    "static/js/2.77be8df1.chunk.js": "/static/js/2.77be8df1.chunk.js",
+    "static/js/2.77be8df1.chunk.js.map": "/static/js/2.77be8df1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.91890665.chunk.css.map": "/static/css/2.91890665.chunk.css.map",
+    "static/css/main.6e3b4138.chunk.css.map": "/static/css/main.6e3b4138.chunk.css.map",
+    "static/js/2.77be8df1.chunk.js.LICENSE.txt": "/static/js/2.77be8df1.chunk.js.LICENSE.txt",
+    "static/media/Math.44321218.png": "/static/media/Math.44321218.png",
+    "static/media/SliderPannel.module.css": "/static/media/Polygon_18.7b8d3a0a.png",
+    "static/media/animation_500_ktuzgcrr.934bd864.gif": "/static/media/animation_500_ktuzgcrr.934bd864.gif",
+    "static/media/calculating.75557331.gif": "/static/media/calculating.75557331.gif",
+    "static/media/coin2.8f0b805d.png": "/static/media/coin2.8f0b805d.png",
+    "static/media/coin98.503fd511.png": "/static/media/coin98.503fd511.png",
+    "static/media/Header2.module.css": "/static/media/logo_hover.2d2f769c.png",
+    "static/media/group_143.cdc55118.png": "/static/media/group_143.cdc55118.png",
+    "static/media/group_7.aba2af21.png": "/static/media/group_7.aba2af21.png",
+    "static/media/medal.53503f72.png": "/static/media/medal.53503f72.png",
+    "static/media/metamask.55d59196.png": "/static/media/metamask.55d59196.png",
+    "static/media/paused.18908217.png": "/static/media/paused.18908217.png",
+    "static/media/paused2.3953d6e3.png": "/static/media/paused2.3953d6e3.png",
+    "static/media/privacy-settings.9718ee44.svg": "/static/media/privacy-settings.9718ee44.svg",
+    "static/media/rectangle_11.c37d8b39.png": "/static/media/rectangle_11.c37d8b39.png",
+    "static/media/rectangle_9.88fbff1b.png": "/static/media/rectangle_9.88fbff1b.png",
+    "static/media/usdc.99bfebf3.png": "/static/media/usdc.99bfebf3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0889474a.js",
+    "static/css/2.91890665.chunk.css",
+    "static/js/2.77be8df1.chunk.js",
+    "static/css/main.6e3b4138.chunk.css",
+    "static/js/main.88dd3b76.chunk.js"
+  ]
+}
